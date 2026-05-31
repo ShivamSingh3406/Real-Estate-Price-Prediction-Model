@@ -6,6 +6,13 @@
   <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-ML-green?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Live%20Demo-HuggingFace-yellow?style=for-the-badge&logo=huggingface&logoColor=white"/>
+</p>
+
+<p align="center">
+  <a href="https://huggingface.co/spaces/ShivamSinghai/Real-Estate-Price-Predictor" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Try%20the%20App-FF4B4B?style=for-the-badge"/>
+  </a>
 </p>
 
 ---
@@ -111,8 +118,8 @@ Random Forest outperforms all linear models because it:
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/ShivamSingh3406/Real-Estate-Price-Prediction-Project.git
-cd Real-Estate-Price-Prediction-Project
+git clone https://github.com/ShivamSingh3406/Real-Estate-Price-Prediction-Model.git
+cd Real-Estate-Price-Prediction-Model
 ```
 
 **2. Install dependencies**
@@ -163,7 +170,8 @@ RMSE : $25,244  → Typical error magnitude in sale price units
 ## 👨‍💻 Author
 
 **Shivam Singh**  
-M.Sc. Data Science & AI — BITS Pilani (WILP)  
+M.Sc. Data Science & AI — BITS Pilani  
+Business Analytics with Gen & Agentic AI — BITS School of Management  
 10+ years of domain expertise in manufacturing | Transitioning into AI/ML
 
 [![GitHub](https://img.shields.io/badge/GitHub-ShivamSingh3406-black?style=flat-square&logo=github)](https://github.com/ShivamSingh3406)
