@@ -13,6 +13,10 @@
   <a href="https://huggingface.co/spaces/ShivamSinghai/Real-Estate-Price-Predictor" target="_blank">
     <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Try%20the%20App-FF4B4B?style=for-the-badge"/>
   </a>
+  &nbsp;
+  <a href="https://colab.research.google.com/github/ShivamSingh3406/Real-Estate-Price-Prediction-Model/blob/main/Real_Estate_Price_Prediction_final.ipynb" target="_blank">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" style="height:28px"/>
+  </a>
 </p>
 
 ---
